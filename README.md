@@ -8,8 +8,8 @@ Brahushi, Delian, 22209960
 
 **Electricity Bill Prediction App**
 
-<img src="https://gcdnb.pbrd.co/images/zDCH0ttfWSpo.png?o=1" width="500" height="300" />
-<img src="https://gcdnb.pbrd.co/images/jc3Mg5xywSCC.png?o=1" width="300" height="300" />
+<img src="https://i.imgur.com/nPvOiGn.png" width="500" height="300" />
+<img src="https://i.imgur.com/opb2sNk.png" width="300" height="300" />
 
 This PyQt6 application provides a user-friendly interface for predicting electricity bills based on various input parameters. It incorporates data analysis using Pandas and NumPy, a Scikit-learn training model, and interactive visualization with Matplotlib.
 
