@@ -1,4 +1,4 @@
-Brahushi, Delian, 22209960
+Brahushi, Delian
 
  Electricity Bill Prediction
 
