@@ -2,9 +2,6 @@ Brahushi, Delian, 22209960
 
  Electricity Bill Prediction
 
-https://mygit.th-deg.de/db27960/recommendation-system
-
-
 ## Project description
 
 
